@@ -1,16 +1,20 @@
 /* Set Your Own Margin & Padding */
 /*primary header*/
 body{
-	background: #7F4B61;
-	background-image: url(http://www.transparenttextures.com/patterns/brushed-alum.png);
+	background-color: #80626e;
+	background-image: url(http://www.transparenttextures.com/patterns/white-leather.png);
 }
 h1{
 	font-family: 'Lato', sans-serif;
 	color: #ACB852;
 }
-h2, h3, p {
+h2, h3 {
 	margin: 0;
 	color: #7F4B61;
+}
+
+p{
+	color: #ACB852;
 }
 
 /* Layout for Style Tile*/
